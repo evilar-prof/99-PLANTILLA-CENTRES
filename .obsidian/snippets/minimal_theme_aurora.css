@@ -1,0 +1,44 @@
+/* === Variables de colores personalizados (Nord Aurora) === */
+:root {
+  --bold-default:  #a3be8c;  /* Negrita general */
+  --bold-quote:    #a3be8c;  /* Negrita en citas */
+  --bold-list:     #a3be8c;  /* Negrita en listas */
+  --bold-heading:  #a3be8c;  /* Negrita en títulos */
+  --bold-code:     #bf616a;  /* Negrita en código inline */
+}
+
+/* === Negrita general (por defecto) === */
+.markdown-preview-view strong,
+.cm-s-obsidian span.cm-strong {
+  color: var(--bold-default) !important;
+}
+
+/* === Negrita en citas > === */
+.markdown-preview-view blockquote strong,
+.markdown-source-view.mod-cm6 .cm-quote .cm-strong {
+  color: var(--bold-quote) !important;
+}
+
+/* === Negrita en listas - o 1. === */
+.markdown-preview-view ul li strong,
+.markdown-preview-view ol li strong,
+.markdown-source-view.mod-cm6 .cm-list .cm-strong {
+  color: var(--bold-list) !important;
+}
+
+/* === Negrita en encabezados # === */
+.markdown-preview-view h1 strong,
+.markdown-preview-view h2 strong,
+.markdown-preview-view h3 strong,
+.markdown-preview-view h4 strong,
+.markdown-preview-view h5 strong,
+.markdown-preview-view h6 strong,
+.markdown-source-view.mod-cm6 .HyperMD-header .cm-strong {
+  color: var(--bold-heading) !important;
+}
+
+/* === Negrita dentro de código en línea (`**` + `` ` ``) === */
+.markdown-preview-view strong code,
+.markdown-source-view.mod-cm6 .cm-strong.cm-inline-code {
+  color: var(--bold-code) !important;
+}
