@@ -5,10 +5,10 @@
 > - TODO: pegar-li un tomb a com ho faig per no tindre duplicats, o tenir les mínimes.
 ## PRIORITAT GENERAL TASQUES
 
+> AQUI, POSAR LES TASQUES ORDENADES PER PRIORITAT (mesclant assignatures si fa falta).
+
 > [!warning] COMPTE! Falta d'informació!
 > Revisar les tasques d'aquest document i les individuals de cada assignatura per refer la llista.
-
-> AQUI, POSAR LES TASQUES ORDENADES PER PRIORITAT (mesclant assignatures si fa falta).
 
 ---
 ---
