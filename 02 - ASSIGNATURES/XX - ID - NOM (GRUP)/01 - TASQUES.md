@@ -1,7 +1,7 @@
 
-> AQUI POSAR LES TASQUES PERSONALS DE CONTINGUT XTEC
+> AQUI POSAR LES TASQUES RELACIONADES AMB L'ASSIGNATURA.
 
 > [!tip] Nomenclatura tasques
 > - **CATEGORIA** - INFO
 > 	- Exemple:
-> 		- **PERSONAL** - Recopilar apunts de totes les assignatures que he donat aquest any, per tenir material per al curs vinent.
+> 		- **0486** - Revisar RA1 activitats Moodle.
