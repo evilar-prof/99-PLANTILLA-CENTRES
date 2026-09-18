@@ -1,3 +1,4 @@
+
 > [!tip] **Data inici i fi trimestre**
 > - **Data inici**: dd/mm/yy
 > - **Data fi** (*data límit per a realitzar activitats d’avaluació*): dd/mm/yy
